@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">My Student App</string>
+    <string name="action_logout">Logout</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="loginas">Login As</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="action_login">LOGIN</string>
+
+    <string name="title_dm">DATA MAHASISWA</string>
+    <string name="title_rnilai">RANGKUMAN NILAI</string>
+    <string name="npm">NPM</string>
+    <string name="nama">Nama</string>
+    <string name="ipk_lokal">IPK Lokal</string>
+    <string name="ipk_utama">IPK Utama</string>
+    <string name="ipk_total">IPK Total</string>
+    <string name="sks">SKS</string>
+    <string name="jenis">Jenis</string>
+    <string name="nilai">Nilai</string>
+    <string name="mutu">Mutu</string>
+    <string name="semester">Semester</string>
+    <string name="waktu">Waktu</string>
+    <string name="ruang">Ruang</string>
+    <string name="dosen">Dosen</string>
+    <string name="colon">:</string>
+    <string name="dash">-</string>
+    <string name="button_rangkuman">RANGKUMAN</string>
+    <string name="button_login">LOGIN</string>
+
+    <string name="nav_item_beranda">Beranda</string>
+    <string name="nav_item_akademik">Akademik</string>
+    <string name="nav_item_jadwal">Jadwal</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_beranda</item>
+        <item>@string/nav_item_akademik</item>
+        <item>@string/nav_item_jadwal</item>
+    </string-array>
+
+    <string name="title_jadwal">Jadwal</string>
+    <string name="title_akademik">Akademik</string>
+    <string name="title_beranda">Beranda</string>
+    <string name="title_berita">Berita</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
